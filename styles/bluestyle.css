@@ -1,8 +1,16 @@
+html {
+	background-color: lightblue;
+}
+
 body {
-background-color: lightblue;
+	background-color: white;
+	width: 85%;
+	border-radius: 1em;
+	margin: 1em auto;
+	padding: 2em;
 }
 
 h1 {
-color: navy;
-margin-left: 20px;
+	color: navy;
+	margin-left: 20px;
 }
